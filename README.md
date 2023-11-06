@@ -8,7 +8,7 @@ This project is inspired by the innovative application of ActiveSVM in **“Mini
 !pip install psutil
 ```
 Two variations are used in activeSVC **"min_complexity"** using fewer samples per iteration, and **"min_acquisition"** focusing on reusing samples from previous rounds to minimize total samples.
-'''bash
+```bash
 from activeSVC import min_complexity
 from activeSVC import min_acquisition
 from activeSVC import min_complexity_cv
