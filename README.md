@@ -16,3 +16,7 @@ from activeSVC import min_acquisition_cv
 from activeSVC import min_complexity_h5py
 from activeSVC import min_acquisition_h5py
 ```
+### Datasets used for classification tasks:
+1.Tox21 -Toxicology in the 21st Century
+2.BACE - Provides binding results for a set of inhibitors of human beta-secretase (BACE-1)
+3.BBBP -(Blood-Brain-Barrier Penetration)
